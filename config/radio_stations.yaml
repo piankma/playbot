@@ -1,0 +1,22 @@
+
+list:
+    -   name: Disco Radio Bielsko-Biała
+        url: http://stream4.nadaje.com:8174/test
+        tags:
+            - disco-polo
+            - bielsko-biała
+    -   name: Bayer FM
+        url: http://51.254.35.19:8045/
+        tags:
+            - disco-polo
+            - ełk
+    -   name: Eska Łomża
+        url: https://waw01-04.ic.smcdn.pl/t020-1.mp3
+        tags:
+            - pop
+            - łomża
+    -   name: Radio OKO
+        url: http://stream2.nadaje.com:8094/
+        tags:
+            - disco-polo
+            - ostrołęka
